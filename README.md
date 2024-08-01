@@ -1,2 +1,4 @@
 # useful-linux-commands
-Useful Linux commands to help you better understand Linux commands
+A collection of essential Linux commands to help you better understand Linux basics
+
+### Additional commands to be added periodically.
