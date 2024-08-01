@@ -45,7 +45,7 @@ This repository includes a Bash script, `grep_regexp.sh`, which automates search
 
 ### Patterns Included
 - **CC**: Searches for these card types: Visa, Mastercard, Amex
-- **SS:** Searches for numbers with this format `123`45`6789`
+- **SS:** Searches for numbers with this format `123 45 6789`
 - **Phone Numbers**: Searches for phone numbers in the format `(123) 456-7890`
 - **Emails:** Searches for email addresses.
 
